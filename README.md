@@ -1,4 +1,4 @@
-# KICKSTART YOUR PYTHON PROJECT
+# KICKSTART YOUR MACHINE LEARNING PROJECT IN PYTHON
 
 ## Part 1: Coockiecutter, git and virtualenv
 ### Cookiecutter
